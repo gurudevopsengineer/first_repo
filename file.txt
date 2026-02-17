@@ -1,1 +1,3 @@
+a welcome message
+
 print file
